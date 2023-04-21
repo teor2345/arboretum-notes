@@ -9,13 +9,13 @@ Meeting Duration: 1hr 30mins
 
 + Welcome and Meeting Intro 
 
-+ Zebra Status - [Status Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#1-zebrad-status---zebrad-updates)
++ Zebra Status - [Status Update]()
 
-+ ECC Core Update - [5.5.0 release](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#2-ecc-core-updates----zcashd-status) / [Light Client Working Group](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#2-ecc-core-updates----light-client-working-group)
++ ECC Core Update - [5.5.0 release]() / [Light Client Working Group]()
 
-+ Research & Implementation Update - [FROST crates & The FROST book](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-research--implementation-updates-i-frost-crate-releases--the-frost-book) / [Technical Collaboration Forum](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-research--implementation-updates-iii-technical-collaboration-forum) / [NU5 Retrospective](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-research--implementation-updates-iii-planning-nu5-retrospective)
++ Research & Implementation Update - [FROST crates & The FROST book]() / [Technical Collaboration Forum]() / [NU5 Retrospective]()
     
-+ Open Discussion - [NUP Review](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-open-discussion-i-nu6-review)
++ Open Discussion - [NUP Review]()
 
 
 Video of the meeting: [recorded]
@@ -633,7 +633,7 @@ Yeah. So I just wanted to mention that we haven't actually decided on a support 
 
 [01:23:01] - **Teor**
 
-In terms of network upgrades in general, I just wanted to mention that we haven't stopped making changes, so we've made some changes to Fees network protocol, we can do some soft forks, we're adding extra features to Zebra and to understand zcashd's adding performance features. So I would be in favor of trying to move as many changes out of network upgrades as possible because it's a lot easier to make those smaller changes on a regular cadence. But some things do have to be breaking changes and that's fine. So yeah, just also we're thinking about that changes do still happen to the protocol inbetween network upgrades.
+In terms of network upgrades in general, I just wanted to mention that we haven't stopped making changes, so we've made some changes to fees, network protocol, we can do some soft forks, we're adding extra features to Zebra and I understand zcashd's adding performance features. So I would be in favor of trying to move as many changes out of network upgrades as possible because it's a lot easier to make those smaller changes on a regular cadence. But some things do have to be breaking changes and that's fine. So yeah, just also we're thinking about that changes do still happen to the protocol between network upgrades.
 
 [01:23:58] - **Str4d**
 
